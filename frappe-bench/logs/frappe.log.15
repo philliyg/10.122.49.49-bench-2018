@@ -1,0 +1,1842 @@
+[DEBUG] 2018-07-09 09:54:11,916 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 09:58:12,474 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 10:02:13,163 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 10:06:13,676 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 10:10:14,186 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 10:14:14,785 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 10:18:15,211 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 10:22:15,774 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 10:26:16,228 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 10:30:16,759 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 10:34:17,276 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 10:38:17,748 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 10:42:18,232 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 10:46:18,672 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 23:05:15,565 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 23:09:16,081 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 23:13:16,456 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 23:17:16,988 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 23:21:17,998 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 23:25:18,348 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 23:29:18,807 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 23:33:19,088 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 23:37:19,448 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 23:41:19,825 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 23:45:20,192 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 23:49:20,545 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 23:53:21,228 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 23:57:21,579 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 00:01:22,307 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 00:05:22,991 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 00:09:23,372 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 00:13:23,739 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 00:17:24,056 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 00:21:24,432 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 00:25:24,791 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 00:29:25,091 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 00:33:25,351 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 00:37:25,759 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 00:41:26,113 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 00:45:26,455 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 00:49:26,772 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 00:53:27,189 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 00:57:27,455 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 01:01:27,795 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 01:05:28,138 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 01:09:28,549 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 01:13:28,946 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 01:17:29,593 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 01:21:29,958 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 01:25:30,303 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 01:29:30,965 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 01:33:31,361 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 01:37:32,064 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 01:41:32,484 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 01:45:32,822 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 01:49:33,516 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 01:53:33,915 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 01:57:34,278 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 02:01:34,660 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 02:05:35,037 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 02:09:35,351 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 02:13:35,767 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 02:17:36,080 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 02:21:36,391 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 02:25:37,049 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 02:29:37,719 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 02:33:38,035 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 02:37:38,696 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 02:41:39,034 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 02:45:39,381 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 02:49:40,067 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 02:53:40,695 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 02:57:41,046 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 03:01:41,445 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 03:05:41,816 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 03:09:42,140 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 03:13:42,819 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 03:17:43,247 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 03:21:43,666 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 03:25:44,022 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 03:29:44,676 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 03:33:45,082 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 03:37:45,751 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 03:41:46,414 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 03:45:46,826 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 03:49:47,172 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 03:53:47,478 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 03:57:48,496 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 04:01:48,885 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 04:05:49,547 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 04:09:49,915 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 04:13:50,263 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 04:17:50,668 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 04:21:51,071 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 04:25:51,761 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 04:29:52,443 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 04:33:52,827 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 04:37:53,524 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 04:41:53,888 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 04:45:54,304 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 04:49:54,578 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 04:53:54,987 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 04:57:55,264 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 05:01:55,647 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 05:05:55,984 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 05:09:56,292 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 05:13:56,670 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 05:17:57,002 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 05:21:57,427 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 05:25:57,687 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 05:29:58,000 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 05:33:58,235 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 05:37:58,516 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 05:41:58,844 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 05:45:59,144 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 05:49:59,491 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 05:53:59,848 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 05:58:00,171 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 06:02:00,603 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 06:06:00,963 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 06:10:01,253 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 06:14:01,514 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 06:18:01,831 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 06:22:02,128 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 06:26:02,451 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 06:30:02,658 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 06:34:02,967 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 06:38:03,357 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 06:42:03,647 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 06:46:03,960 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 06:50:04,240 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 06:54:04,607 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 06:58:04,951 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 07:02:05,310 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 07:06:05,601 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 07:10:05,867 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 07:14:06,191 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 07:18:06,500 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 07:22:06,814 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 07:26:07,116 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[ERROR] 2018-07-10 07:30:05,014 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Form Dict: {
+ "cmd": "frappe.utils.help.get_help", 
+ "text": "hide toolbar"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 57, in application
+    response = frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 22, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 53, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 923, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 30, in get_help
+    return HelpDatabase().search(text)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 87, in search
+    select title, intro, path from help where match(content) against (%s) limit 10''', ('%'+words+'%', words))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 154, in sql
+    self._cursor.execute(query, values)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 250, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+    raise errorvalue
+ProgrammingError: (1146, "Table 'd56cb677eaab3383.help' doesn't exist")
+[ERROR] 2018-07-10 07:30:05,639 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: 'connection'
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in get_snapshot
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+  File "/usr/lib/python2.7/inspect.py", line 888, in formatargvalues
+    specs.append(strseq(args[i], convert, join))
+  File "/usr/lib/python2.7/inspect.py", line 843, in strseq
+    return convert(object)
+  File "/usr/lib/python2.7/inspect.py", line 885, in convert
+    return formatarg(name) + formatvalue(locals[name])
+KeyError: 'connection'
+[DEBUG] 2018-07-10 07:30:07,500 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[ERROR] 2018-07-10 07:30:13,091 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Form Dict: {
+ "cmd": "frappe.utils.help.get_help", 
+ "text": "toolbar"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 57, in application
+    response = frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 22, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 53, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 923, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 30, in get_help
+    return HelpDatabase().search(text)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 87, in search
+    select title, intro, path from help where match(content) against (%s) limit 10''', ('%'+words+'%', words))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 154, in sql
+    self._cursor.execute(query, values)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 250, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+    raise errorvalue
+ProgrammingError: (1146, "Table 'd56cb677eaab3383.help' doesn't exist")
+[ERROR] 2018-07-10 07:30:13,094 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: 'connection'
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in get_snapshot
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+  File "/usr/lib/python2.7/inspect.py", line 888, in formatargvalues
+    specs.append(strseq(args[i], convert, join))
+  File "/usr/lib/python2.7/inspect.py", line 843, in strseq
+    return convert(object)
+  File "/usr/lib/python2.7/inspect.py", line 885, in convert
+    return formatarg(name) + formatvalue(locals[name])
+KeyError: 'connection'
+[DEBUG] 2018-07-10 07:34:07,820 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 07:40:31,735 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 07:44:32,062 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 07:48:32,397 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 07:52:32,771 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[ERROR] 2018-07-10 12:42:32,193 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 54, in application
+    init_request(request)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 105, in init_request
+    frappe.init(site=site, sites_path=_sites_path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 184, in get_site_config
+    config.update(get_file_json(common_site_config))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 880, in get_file_json
+    return json.load(f)
+  File "/usr/lib/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 17 column 2 (char 475)
+[ERROR] 2018-07-10 12:42:32,446 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 54, in application
+    init_request(request)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 105, in init_request
+    frappe.init(site=site, sites_path=_sites_path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 184, in get_site_config
+    config.update(get_file_json(common_site_config))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 880, in get_file_json
+    return json.load(f)
+  File "/usr/lib/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 17 column 2 (char 475)
+[ERROR] 2018-07-10 12:42:33,673 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 54, in application
+    init_request(request)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 105, in init_request
+    frappe.init(site=site, sites_path=_sites_path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 184, in get_site_config
+    config.update(get_file_json(common_site_config))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 880, in get_file_json
+    return json.load(f)
+  File "/usr/lib/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 17 column 2 (char 475)
+[ERROR] 2018-07-10 12:42:33,766 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 54, in application
+    init_request(request)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 105, in init_request
+    frappe.init(site=site, sites_path=_sites_path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 184, in get_site_config
+    config.update(get_file_json(common_site_config))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 880, in get_file_json
+    return json.load(f)
+  File "/usr/lib/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 17 column 2 (char 475)
+[ERROR] 2018-07-10 12:42:34,370 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 54, in application
+    init_request(request)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 105, in init_request
+    frappe.init(site=site, sites_path=_sites_path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 184, in get_site_config
+    config.update(get_file_json(common_site_config))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 880, in get_file_json
+    return json.load(f)
+  File "/usr/lib/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 17 column 2 (char 475)
+[ERROR] 2018-07-10 12:42:34,436 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 54, in application
+    init_request(request)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 105, in init_request
+    frappe.init(site=site, sites_path=_sites_path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 184, in get_site_config
+    config.update(get_file_json(common_site_config))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 880, in get_file_json
+    return json.load(f)
+  File "/usr/lib/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 17 column 2 (char 475)
+[ERROR] 2018-07-10 12:42:34,585 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 54, in application
+    init_request(request)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 105, in init_request
+    frappe.init(site=site, sites_path=_sites_path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 184, in get_site_config
+    config.update(get_file_json(common_site_config))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 880, in get_file_json
+    return json.load(f)
+  File "/usr/lib/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 17 column 2 (char 475)
+[ERROR] 2018-07-10 12:42:34,657 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 54, in application
+    init_request(request)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 105, in init_request
+    frappe.init(site=site, sites_path=_sites_path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 184, in get_site_config
+    config.update(get_file_json(common_site_config))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 880, in get_file_json
+    return json.load(f)
+  File "/usr/lib/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 17 column 2 (char 475)
+[ERROR] 2018-07-10 12:42:34,792 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 54, in application
+    init_request(request)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 105, in init_request
+    frappe.init(site=site, sites_path=_sites_path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 184, in get_site_config
+    config.update(get_file_json(common_site_config))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 880, in get_file_json
+    return json.load(f)
+  File "/usr/lib/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 17 column 2 (char 475)
+[ERROR] 2018-07-10 12:42:34,859 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 54, in application
+    init_request(request)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 105, in init_request
+    frappe.init(site=site, sites_path=_sites_path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 184, in get_site_config
+    config.update(get_file_json(common_site_config))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 880, in get_file_json
+    return json.load(f)
+  File "/usr/lib/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 17 column 2 (char 475)
+[ERROR] 2018-07-10 12:42:35,080 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 54, in application
+    init_request(request)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 105, in init_request
+    frappe.init(site=site, sites_path=_sites_path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 184, in get_site_config
+    config.update(get_file_json(common_site_config))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 880, in get_file_json
+    return json.load(f)
+  File "/usr/lib/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 17 column 2 (char 475)
+[ERROR] 2018-07-10 12:42:35,149 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 54, in application
+    init_request(request)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 105, in init_request
+    frappe.init(site=site, sites_path=_sites_path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 184, in get_site_config
+    config.update(get_file_json(common_site_config))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 880, in get_file_json
+    return json.load(f)
+  File "/usr/lib/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 17 column 2 (char 475)
+[ERROR] 2018-07-10 12:42:35,297 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 54, in application
+    init_request(request)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 105, in init_request
+    frappe.init(site=site, sites_path=_sites_path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 184, in get_site_config
+    config.update(get_file_json(common_site_config))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 880, in get_file_json
+    return json.load(f)
+  File "/usr/lib/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 17 column 2 (char 475)
+[ERROR] 2018-07-10 12:42:35,367 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 54, in application
+    init_request(request)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 105, in init_request
+    frappe.init(site=site, sites_path=_sites_path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 184, in get_site_config
+    config.update(get_file_json(common_site_config))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 880, in get_file_json
+    return json.load(f)
+  File "/usr/lib/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 17 column 2 (char 475)
+[ERROR] 2018-07-10 12:42:35,488 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 54, in application
+    init_request(request)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 105, in init_request
+    frappe.init(site=site, sites_path=_sites_path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 184, in get_site_config
+    config.update(get_file_json(common_site_config))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 880, in get_file_json
+    return json.load(f)
+  File "/usr/lib/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 17 column 2 (char 475)
+[ERROR] 2018-07-10 12:42:35,550 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 54, in application
+    init_request(request)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 105, in init_request
+    frappe.init(site=site, sites_path=_sites_path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 184, in get_site_config
+    config.update(get_file_json(common_site_config))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 880, in get_file_json
+    return json.load(f)
+  File "/usr/lib/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 17 column 2 (char 475)
+[ERROR] 2018-07-10 12:43:51,752 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 54, in application
+    init_request(request)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 105, in init_request
+    frappe.init(site=site, sites_path=_sites_path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 184, in get_site_config
+    config.update(get_file_json(common_site_config))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 880, in get_file_json
+    return json.load(f)
+  File "/usr/lib/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 17 column 2 (char 475)
+[ERROR] 2018-07-10 12:43:51,829 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 54, in application
+    init_request(request)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 105, in init_request
+    frappe.init(site=site, sites_path=_sites_path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 184, in get_site_config
+    config.update(get_file_json(common_site_config))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 880, in get_file_json
+    return json.load(f)
+  File "/usr/lib/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 17 column 2 (char 475)
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                [ERROR] 2018-07-10 12:47:44,737 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 54, in application
+    init_request(request)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 105, in init_request
+    frappe.init(site=site, sites_path=_sites_path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 184, in get_site_config
+    config.update(get_file_json(common_site_config))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 880, in get_file_json
+    return json.load(f)
+  File "/usr/lib/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 17 column 2 (char 475)
+[ERROR] 2018-07-10 12:47:44,910 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 54, in application
+    init_request(request)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 105, in init_request
+    frappe.init(site=site, sites_path=_sites_path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 184, in get_site_config
+    config.update(get_file_json(common_site_config))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 880, in get_file_json
+    return json.load(f)
+  File "/usr/lib/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 17 column 2 (char 475)
+[ERROR] 2018-07-10 12:47:45,477 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 54, in application
+    init_request(request)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 105, in init_request
+    frappe.init(site=site, sites_path=_sites_path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 184, in get_site_config
+    config.update(get_file_json(common_site_config))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 880, in get_file_json
+    return json.load(f)
+  File "/usr/lib/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 17 column 2 (char 475)
+[ERROR] 2018-07-10 12:47:45,526 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 54, in application
+    init_request(request)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 105, in init_request
+    frappe.init(site=site, sites_path=_sites_path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 184, in get_site_config
+    config.update(get_file_json(common_site_config))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 880, in get_file_json
+    return json.load(f)
+  File "/usr/lib/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 17 column 2 (char 475)
+[ERROR] 2018-07-10 12:47:45,933 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 54, in application
+    init_request(request)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 105, in init_request
+    frappe.init(site=site, sites_path=_sites_path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 184, in get_site_config
+    config.update(get_file_json(common_site_config))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 880, in get_file_json
+    return json.load(f)
+  File "/usr/lib/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 17 column 2 (char 475)
+[ERROR] 2018-07-10 12:47:45,981 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 54, in application
+    init_request(request)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 105, in init_request
+    frappe.init(site=site, sites_path=_sites_path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 184, in get_site_config
+    config.update(get_file_json(common_site_config))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 880, in get_file_json
+    return json.load(f)
+  File "/usr/lib/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 17 column 2 (char 475)
+[ERROR] 2018-07-10 12:47:46,166 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 54, in application
+    init_request(request)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 105, in init_request
+    frappe.init(site=site, sites_path=_sites_path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 184, in get_site_config
+    config.update(get_file_json(common_site_config))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 880, in get_file_json
+    return json.load(f)
+  File "/usr/lib/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 17 column 2 (char 475)
+[ERROR] 2018-07-10 12:47:46,212 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 54, in application
+    init_request(request)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 105, in init_request
+    frappe.init(site=site, sites_path=_sites_path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 184, in get_site_config
+    config.update(get_file_json(common_site_config))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 880, in get_file_json
+    return json.load(f)
+  File "/usr/lib/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 17 column 2 (char 475)
+[ERROR] 2018-07-10 12:47:46,356 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 54, in application
+    init_request(request)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 105, in init_request
+    frappe.init(site=site, sites_path=_sites_path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 184, in get_site_config
+    config.update(get_file_json(common_site_config))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 880, in get_file_json
+    return json.load(f)
+  File "/usr/lib/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 17 column 2 (char 475)
+[ERROR] 2018-07-10 12:47:46,407 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 54, in application
+    init_request(request)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 105, in init_request
+    frappe.init(site=site, sites_path=_sites_path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 184, in get_site_config
+    config.update(get_file_json(common_site_config))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 880, in get_file_json
+    return json.load(f)
+  File "/usr/lib/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 17 column 2 (char 475)
+[ERROR] 2018-07-10 12:47:46,541 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 54, in application
+    init_request(request)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 105, in init_request
+    frappe.init(site=site, sites_path=_sites_path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 184, in get_site_config
+    config.update(get_file_json(common_site_config))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 880, in get_file_json
+    return json.load(f)
+  File "/usr/lib/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 17 column 2 (char 475)
+[ERROR] 2018-07-10 12:47:46,588 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 54, in application
+    init_request(request)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 105, in init_request
+    frappe.init(site=site, sites_path=_sites_path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 135, in init
+    local.conf = _dict(get_site_config())
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 184, in get_site_config
+    config.update(get_file_json(common_site_config))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 880, in get_file_json
+    return json.load(f)
+  File "/usr/lib/python2.7/json/__init__.py", line 290, in load
+    **kw)
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting , delimiter: line 17 column 2 (char 475)
+[DEBUG] 2018-07-10 13:01:43,331 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 13:05:43,826 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 13:09:44,382 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 13:13:44,868 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 13:17:45,331 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 13:21:45,810 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 13:25:46,594 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 13:29:47,094 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 13:33:47,514 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 13:37:48,078 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 13:41:48,503 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 13:45:48,974 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 13:49:49,439 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 13:53:49,910 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 13:57:50,450 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 14:01:51,031 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 14:05:51,530 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 14:09:52,060 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 14:13:52,514 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 14:17:53,038 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 14:21:53,538 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 14:25:53,990 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 14:29:54,543 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 14:33:55,068 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 14:37:55,566 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 14:41:56,087 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 14:45:56,558 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 14:49:57,047 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 14:53:57,495 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 14:57:57,973 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 15:01:58,493 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 15:05:58,970 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 15:09:59,364 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 15:13:59,849 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 15:18:00,367 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 15:22:00,851 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 15:26:01,298 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 15:30:01,834 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 15:34:02,332 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 15:38:02,792 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 15:42:03,179 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 15:46:03,520 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 15:50:03,999 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 15:54:04,522 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 15:58:05,030 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 16:02:05,514 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 16:06:06,058 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 16:10:06,570 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 16:14:07,058 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 16:18:07,570 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 16:22:08,463 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 16:26:08,818 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 16:30:09,553 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 16:34:10,350 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 16:38:11,579 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 16:42:12,240 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 16:46:13,155 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 16:50:14,319 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 16:54:15,679 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 16:58:16,529 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 17:02:17,111 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 17:06:17,650 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 17:10:18,164 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 17:14:18,715 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 17:18:19,283 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 17:22:19,884 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 17:26:20,453 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 17:30:21,003 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 17:34:21,632 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 17:38:22,064 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 17:42:22,611 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 17:46:23,175 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 17:50:23,732 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 17:54:24,583 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 17:58:25,120 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 18:02:25,701 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 18:06:26,219 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 18:10:26,795 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 18:14:27,374 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 18:18:27,787 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 18:22:28,339 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 18:26:29,105 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 18:30:29,462 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 18:34:29,624 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 18:38:30,210 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 18:42:30,905 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 18:46:31,379 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 18:50:31,797 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 18:54:32,303 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 18:58:32,835 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 19:02:33,367 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 19:06:33,774 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 19:10:34,266 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 19:14:34,807 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 19:18:35,337 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 19:22:35,842 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 19:26:36,383 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 19:30:36,872 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 19:34:37,374 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 19:38:37,861 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 19:42:38,314 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 19:46:38,766 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 19:50:39,267 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 19:54:39,694 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 19:58:40,207 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 20:02:40,723 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 20:06:41,208 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 20:10:41,639 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 20:14:42,179 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 20:18:42,692 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 20:22:43,143 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 20:26:43,639 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 20:30:44,127 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 20:34:44,644 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 20:38:45,128 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 20:42:45,571 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 20:46:46,009 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 20:50:46,564 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 20:54:47,078 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 20:58:47,530 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 21:02:47,958 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 21:06:48,438 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 21:10:48,926 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 21:14:49,475 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 21:18:49,934 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 21:22:50,441 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 21:26:50,907 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 21:30:51,390 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 21:34:51,898 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 21:38:52,398 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 21:42:52,807 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 21:46:53,326 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 21:50:53,851 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 21:54:54,271 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 21:58:54,765 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 22:02:55,301 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 22:06:55,825 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 22:10:56,302 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 22:14:56,777 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 22:18:57,295 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 22:22:57,777 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 22:26:58,306 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 22:30:58,831 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 22:34:59,246 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 22:38:59,732 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 22:43:00,174 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 22:47:00,768 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 22:51:01,210 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 22:55:01,680 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 22:59:02,142 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 23:03:02,626 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 23:07:03,145 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 23:11:03,667 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 23:15:04,198 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 23:19:04,691 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 23:23:05,130 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 23:27:05,621 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 23:31:06,034 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 23:35:06,527 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 23:39:06,901 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 23:43:07,408 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-10 23:47:07,822 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[ERROR] 2018-07-10 23:47:36,619 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Form Dict: {
+ "cmd": "frappe.desk.moduleview.get", 
+ "module": "Learn"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 57, in application
+    response = frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 22, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 53, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 923, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/desk/moduleview.py", line 14, in get
+    data = get_data(module)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/desk/moduleview.py", line 30, in get_data
+    data = build_config_from_file(module)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/desk/moduleview.py", line 54, in build_config_from_file
+    data += get_config(app, module)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/desk/moduleview.py", line 183, in get_config
+    config = frappe.get_module("{app}.config.{module}".format(app=app, module=module))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 688, in get_module
+    return importlib.import_module(modulename)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/frappe/frappe-bench/apps/erpnext/erpnext/config/learn.py", line 13
+    "youtube_id": ""
+               ^
+SyntaxError: invalid syntax
+[ERROR] 2018-07-10 23:47:37,184 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+New Exception collected with id: 2018-07-10 23:47:36.620002-10.0.2.2-d4c
+[DEBUG] 2018-07-10 23:51:08,263 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[ERROR] 2018-07-10 23:52:30,088 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Form Dict: {
+ "cmd": "frappe.utils.help.get_help_content", 
+ "path": "/documentation/index"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 57, in application
+    response = frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 22, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 53, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 923, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 34, in get_help_content
+    return HelpDatabase().get_content(path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 99, in get_content
+    result = self.db.sql(query.format(path=path))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 165, in sql
+    self._cursor.execute(query)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 250, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+    raise errorvalue
+ProgrammingError: (1146, "Table 'd56cb677eaab3383.help' doesn't exist")
+[ERROR] 2018-07-10 23:52:30,123 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: 'connection'
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in get_snapshot
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+  File "/usr/lib/python2.7/inspect.py", line 888, in formatargvalues
+    specs.append(strseq(args[i], convert, join))
+  File "/usr/lib/python2.7/inspect.py", line 843, in strseq
+    return convert(object)
+  File "/usr/lib/python2.7/inspect.py", line 885, in convert
+    return formatarg(name) + formatvalue(locals[name])
+KeyError: 'connection'
+[ERROR] 2018-07-10 23:52:30,166 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Form Dict: {
+ "cmd": "frappe.utils.help.get_help_content", 
+ "path": "/documentation/index"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 57, in application
+    response = frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 22, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 53, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 923, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 34, in get_help_content
+    return HelpDatabase().get_content(path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 99, in get_content
+    result = self.db.sql(query.format(path=path))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 165, in sql
+    self._cursor.execute(query)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 250, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+    raise errorvalue
+ProgrammingError: (1146, "Table 'd56cb677eaab3383.help' doesn't exist")
+[ERROR] 2018-07-10 23:52:30,170 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: 'connection'
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in get_snapshot
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+  File "/usr/lib/python2.7/inspect.py", line 888, in formatargvalues
+    specs.append(strseq(args[i], convert, join))
+  File "/usr/lib/python2.7/inspect.py", line 843, in strseq
+    return convert(object)
+  File "/usr/lib/python2.7/inspect.py", line 885, in convert
+    return formatarg(name) + formatvalue(locals[name])
+KeyError: 'connection'
+[ERROR] 2018-07-10 23:52:30,181 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Form Dict: {
+ "cmd": "frappe.utils.help.get_help_content", 
+ "path": "/documentation/index"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 57, in application
+    response = frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 22, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 53, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 923, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 34, in get_help_content
+    return HelpDatabase().get_content(path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 99, in get_content
+    result = self.db.sql(query.format(path=path))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 165, in sql
+    self._cursor.execute(query)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 250, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+    raise errorvalue
+ProgrammingError: (1146, "Table 'd56cb677eaab3383.help' doesn't exist")

@@ -1,0 +1,540 @@
+[ERROR] 2018-07-10 23:52:30,230 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Form Dict: {
+ "cmd": "frappe.utils.help.get_help_content", 
+ "path": "/documentation/index"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 57, in application
+    response = frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 22, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 53, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 923, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 34, in get_help_content
+    return HelpDatabase().get_content(path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 99, in get_content
+    result = self.db.sql(query.format(path=path))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 165, in sql
+    self._cursor.execute(query)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 250, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+    raise errorvalue
+ProgrammingError: (1146, "Table 'd56cb677eaab3383.help' doesn't exist")
+[ERROR] 2018-07-10 23:52:30,242 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Form Dict: {
+ "cmd": "frappe.utils.help.get_help_content", 
+ "path": "/documentation/index"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 57, in application
+    response = frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 22, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 53, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 923, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 34, in get_help_content
+    return HelpDatabase().get_content(path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 99, in get_content
+    result = self.db.sql(query.format(path=path))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 165, in sql
+    self._cursor.execute(query)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 250, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+    raise errorvalue
+ProgrammingError: (1146, "Table 'd56cb677eaab3383.help' doesn't exist")
+[ERROR] 2018-07-10 23:52:30,256 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Form Dict: {
+ "cmd": "frappe.utils.help.get_help_content", 
+ "path": "/documentation/index"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 57, in application
+    response = frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 22, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 53, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 923, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 34, in get_help_content
+    return HelpDatabase().get_content(path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 99, in get_content
+    result = self.db.sql(query.format(path=path))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 165, in sql
+    self._cursor.execute(query)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 250, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+    raise errorvalue
+ProgrammingError: (1146, "Table 'd56cb677eaab3383.help' doesn't exist")
+[ERROR] 2018-07-10 23:52:30,271 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Form Dict: {
+ "cmd": "frappe.utils.help.get_help_content", 
+ "path": "/documentation/index"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 57, in application
+    response = frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 22, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 53, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 923, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 34, in get_help_content
+    return HelpDatabase().get_content(path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 99, in get_content
+    result = self.db.sql(query.format(path=path))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 165, in sql
+    self._cursor.execute(query)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 250, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+    raise errorvalue
+ProgrammingError: (1146, "Table 'd56cb677eaab3383.help' doesn't exist")
+[ERROR] 2018-07-10 23:52:30,284 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Form Dict: {
+ "cmd": "frappe.utils.help.get_help_content", 
+ "path": "/documentation/index"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 57, in application
+    response = frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 22, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 53, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 923, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 34, in get_help_content
+    return HelpDatabase().get_content(path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 99, in get_content
+    result = self.db.sql(query.format(path=path))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 165, in sql
+    self._cursor.execute(query)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 250, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+    raise errorvalue
+ProgrammingError: (1146, "Table 'd56cb677eaab3383.help' doesn't exist")
+[ERROR] 2018-07-10 23:52:30,296 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Form Dict: {
+ "cmd": "frappe.utils.help.get_help_content", 
+ "path": "/documentation/index"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 57, in application
+    response = frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 22, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 53, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 923, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 34, in get_help_content
+    return HelpDatabase().get_content(path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 99, in get_content
+    result = self.db.sql(query.format(path=path))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 165, in sql
+    self._cursor.execute(query)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 250, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+    raise errorvalue
+ProgrammingError: (1146, "Table 'd56cb677eaab3383.help' doesn't exist")
+[ERROR] 2018-07-10 23:52:30,309 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Form Dict: {
+ "cmd": "frappe.utils.help.get_help_content", 
+ "path": "/documentation/index"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 57, in application
+    response = frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 22, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 53, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 923, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 34, in get_help_content
+    return HelpDatabase().get_content(path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 99, in get_content
+    result = self.db.sql(query.format(path=path))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 165, in sql
+    self._cursor.execute(query)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 250, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+    raise errorvalue
+ProgrammingError: (1146, "Table 'd56cb677eaab3383.help' doesn't exist")
+[ERROR] 2018-07-10 23:52:30,321 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Form Dict: {
+ "cmd": "frappe.utils.help.get_help_content", 
+ "path": "/documentation/index"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 57, in application
+    response = frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 22, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 53, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 923, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 34, in get_help_content
+    return HelpDatabase().get_content(path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 99, in get_content
+    result = self.db.sql(query.format(path=path))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 165, in sql
+    self._cursor.execute(query)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 250, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+    raise errorvalue
+ProgrammingError: (1146, "Table 'd56cb677eaab3383.help' doesn't exist")
+[ERROR] 2018-07-10 23:52:30,335 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Form Dict: {
+ "cmd": "frappe.utils.help.get_help_content", 
+ "path": "/documentation/index"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 57, in application
+    response = frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 22, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 53, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 923, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 34, in get_help_content
+    return HelpDatabase().get_content(path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 99, in get_content
+    result = self.db.sql(query.format(path=path))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 165, in sql
+    self._cursor.execute(query)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 250, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+    raise errorvalue
+ProgrammingError: (1146, "Table 'd56cb677eaab3383.help' doesn't exist")
+[ERROR] 2018-07-10 23:52:30,355 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Form Dict: {
+ "cmd": "frappe.utils.help.get_help_content", 
+ "path": "/documentation/index"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 57, in application
+    response = frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 22, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 53, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 923, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 34, in get_help_content
+    return HelpDatabase().get_content(path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 99, in get_content
+    result = self.db.sql(query.format(path=path))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 165, in sql
+    self._cursor.execute(query)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 250, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+    raise errorvalue
+ProgrammingError: (1146, "Table 'd56cb677eaab3383.help' doesn't exist")
+[ERROR] 2018-07-10 23:52:30,372 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Form Dict: {
+ "cmd": "frappe.utils.help.get_help_content", 
+ "path": "/documentation/index"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 57, in application
+    response = frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 22, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 53, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 923, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 34, in get_help_content
+    return HelpDatabase().get_content(path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 99, in get_content
+    result = self.db.sql(query.format(path=path))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 165, in sql
+    self._cursor.execute(query)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 250, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+    raise errorvalue
+ProgrammingError: (1146, "Table 'd56cb677eaab3383.help' doesn't exist")
+[ERROR] 2018-07-10 23:52:30,395 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Form Dict: {
+ "cmd": "frappe.utils.help.get_help_content", 
+ "path": "/documentation/index"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 57, in application
+    response = frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 22, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 53, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 923, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 34, in get_help_content
+    return HelpDatabase().get_content(path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 99, in get_content
+    result = self.db.sql(query.format(path=path))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 165, in sql
+    self._cursor.execute(query)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 250, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+    raise errorvalue
+ProgrammingError: (1146, "Table 'd56cb677eaab3383.help' doesn't exist")
+[ERROR] 2018-07-10 23:52:30,415 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Form Dict: {
+ "cmd": "frappe.utils.help.get_help_content", 
+ "path": "/documentation/index"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 57, in application
+    response = frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 22, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 53, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 923, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 34, in get_help_content
+    return HelpDatabase().get_content(path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 99, in get_content
+    result = self.db.sql(query.format(path=path))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 165, in sql
+    self._cursor.execute(query)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 250, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+    raise errorvalue
+ProgrammingError: (1146, "Table 'd56cb677eaab3383.help' doesn't exist")
+[ERROR] 2018-07-10 23:52:30,434 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Form Dict: {
+ "cmd": "frappe.utils.help.get_help_content", 
+ "path": "/documentation/index"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 57, in application
+    response = frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 22, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 53, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 923, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 34, in get_help_content
+    return HelpDatabase().get_content(path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 99, in get_content
+    result = self.db.sql(query.format(path=path))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 165, in sql
+    self._cursor.execute(query)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 250, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+    raise errorvalue
+ProgrammingError: (1146, "Table 'd56cb677eaab3383.help' doesn't exist")
+[ERROR] 2018-07-10 23:52:30,451 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Form Dict: {
+ "cmd": "frappe.utils.help.get_help_content", 
+ "path": "/documentation/index"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 57, in application
+    response = frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 22, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 53, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 923, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 34, in get_help_content
+    return HelpDatabase().get_content(path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 99, in get_content
+    result = self.db.sql(query.format(path=path))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 165, in sql
+    self._cursor.execute(query)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 250, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+    raise errorvalue
+ProgrammingError: (1146, "Table 'd56cb677eaab3383.help' doesn't exist")
+[ERROR] 2018-07-10 23:52:30,467 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Form Dict: {
+ "cmd": "frappe.utils.help.get_help_content", 
+ "path": "/documentation/index"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 57, in application
+    response = frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 22, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 53, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 923, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 34, in get_help_content
+    return HelpDatabase().get_content(path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 99, in get_content
+    result = self.db.sql(query.format(path=path))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 165, in sql
+    self._cursor.execute(query)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 250, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+    raise errorvalue
+ProgrammingError: (1146, "Table 'd56cb677eaab3383.help' doesn't exist")
+[ERROR] 2018-07-10 23:52:30,491 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Form Dict: {
+ "cmd": "frappe.utils.help.get_help_content", 
+ "path": "/documentation/index"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 57, in application
+    response = frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 22, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 53, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 923, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 34, in get_help_content
+    return HelpDatabase().get_content(path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 99, in get_content
+    result = self.db.sql(query.format(path=path))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 165, in sql
+    self._cursor.execute(query)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 250, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+    raise errorvalue
+ProgrammingError: (1146, "Table 'd56cb677eaab3383.help' doesn't exist")
+[ERROR] 2018-07-10 23:52:30,508 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Form Dict: {
+ "cmd": "frappe.utils.help.get_help_content", 
+ "path": "/documentation/index"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 57, in application
+    response = frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 22, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 53, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 923, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 34, in get_help_content
+    return HelpDatabase().get_content(path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 99, in get_content
+    result = self.db.sql(query.format(path=path))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 165, in sql
+    self._cursor.execute(query)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 250, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+    raise errorvalue
+ProgrammingError: (1146, "Table 'd56cb677eaab3383.help' doesn't exist")
+[ERROR] 2018-07-10 23:52:30,524 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Form Dict: {
+ "cmd": "frappe.utils.help.get_help_content", 
+ "path": "/documentation/index"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 57, in application
+    response = frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 22, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 53, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 923, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 34, in get_help_content
+    return HelpDatabase().get_content(path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 99, in get_content
+    result = self.db.sql(query.format(path=path))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 165, in sql
+    self._cursor.execute(query)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 250, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+    raise errorvalue
+ProgrammingError: (1146, "Table 'd56cb677eaab3383.help' doesn't exist")
+[ERROR] 2018-07-10 23:52:30,540 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Form Dict: {
+ "cmd": "frappe.utils.help.get_help_content", 
+ "path": "/documentation/index"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 57, in application
+    response = frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 22, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 53, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 923, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 34, in get_help_content
+    return HelpDatabase().get_content(path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 99, in get_content
+    result = self.db.sql(query.format(path=path))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 165, in sql
+    self._cursor.execute(query)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 250, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+    raise errorvalue
+ProgrammingError: (1146, "Table 'd56cb677eaab3383.help' doesn't exist")

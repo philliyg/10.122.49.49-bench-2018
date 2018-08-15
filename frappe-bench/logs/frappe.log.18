@@ -1,0 +1,1838 @@
+[DEBUG] 2018-07-06 02:24:46,618 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-06 02:28:47,032 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-06 02:32:47,505 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-06 02:36:47,957 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-06 02:40:48,382 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-06 02:44:48,737 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-06 02:48:49,204 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-06 02:52:49,610 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-06 02:56:50,273 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-06 03:00:50,628 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-06 03:04:51,069 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-06 03:08:51,447 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-06 03:12:51,888 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-06 03:16:52,316 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-06 03:20:52,767 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-06 03:24:53,192 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-06 03:28:53,602 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-06 03:32:54,142 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-06 03:36:54,563 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-06 03:40:54,908 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-06 03:44:55,325 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-06 03:48:55,794 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-06 03:52:56,188 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-06 03:56:56,652 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-06 04:00:57,154 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-06 04:04:57,552 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-06 04:08:57,989 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-06 04:12:58,501 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-06 04:16:58,975 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-06 04:20:59,421 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-06 04:24:59,836 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-06 04:29:00,248 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-06 04:33:00,722 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-06 04:37:01,101 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-06 04:41:01,511 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-06 04:45:01,916 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-06 04:49:02,311 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-06 04:53:02,741 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-06 04:57:03,109 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-06 05:01:03,530 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-06 05:05:03,842 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-06 05:09:04,234 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-06 05:13:04,651 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-06 05:17:04,993 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-06 05:21:05,355 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-06 05:25:05,800 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-06 05:29:06,160 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-06 05:33:06,582 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-06 05:37:06,941 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-06 05:41:07,308 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 02:55:32,193 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 02:59:32,680 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 03:03:33,072 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 03:07:33,571 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 03:11:34,053 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 03:15:34,548 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 03:19:35,000 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 03:23:35,517 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 03:27:35,961 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 03:31:36,454 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 03:35:36,840 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 03:39:37,246 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[ERROR] 2018-07-08 03:39:58,412 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Form Dict: {
+ "cmd": "erpnext.hr.doctype.employee_loan.employee_loan.get_employee_loan_application"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 57, in application
+    response = frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 22, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 53, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 923, in call
+    return fn(*args, **newargs)
+TypeError: get_employee_loan_application() takes exactly 1 argument (0 given)
+[ERROR] 2018-07-08 03:39:58,543 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+New Exception collected with id: 2018-07-08 03:39:58.413548-10.0.2.2-59d
+[ERROR] 2018-07-08 03:40:08,053 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Form Dict: {
+ "cmd": "erpnext.hr.doctype.employee_loan.employee_loan.get_employee_loan_application"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 57, in application
+    response = frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 22, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 53, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 923, in call
+    return fn(*args, **newargs)
+TypeError: get_employee_loan_application() takes exactly 1 argument (0 given)
+[ERROR] 2018-07-08 03:40:08,056 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+New Exception collected with id: 2018-07-08 03:40:08.054373-10.0.2.2-f4e
+[DEBUG] 2018-07-08 03:43:37,734 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 03:47:38,172 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 03:51:38,622 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 03:55:39,130 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 03:59:39,633 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 04:03:40,085 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 04:07:40,394 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 04:11:40,892 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 04:15:41,566 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 04:19:42,592 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 04:26:57,516 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 04:30:58,018 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 04:34:58,401 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 04:38:58,874 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 04:47:02,872 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+                                                                                                                                                      [DEBUG] 2018-07-08 04:59:23,944 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 05:06:02,632 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 05:10:03,032 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 05:14:03,382 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 05:19:43,591 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 05:23:43,984 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 05:31:12,330 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 05:35:12,842 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 05:39:13,329 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 05:43:13,807 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 05:47:14,282 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 05:51:14,354 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 05:55:14,911 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 05:59:15,543 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 06:03:16,035 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 06:07:16,560 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 06:11:16,991 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 06:15:17,548 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 06:19:17,923 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 06:23:18,485 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 06:27:19,903 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 06:31:20,508 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 06:35:21,011 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 06:39:21,491 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 06:43:26,677 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 06:49:21,039 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 06:53:44,088 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 06:57:46,525 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 07:01:48,277 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 07:06:10,712 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 07:10:11,051 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 07:14:37,284 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 07:18:37,799 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 07:22:38,284 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 07:26:38,655 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 07:30:39,166 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 07:34:39,598 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 07:38:40,055 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 07:42:40,559 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 07:46:41,052 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 07:50:41,600 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 07:54:42,157 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 07:58:43,024 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 08:02:43,551 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 08:06:43,979 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 08:10:44,779 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 08:14:45,408 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 08:18:46,515 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 08:22:46,891 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 08:26:47,522 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 08:30:47,943 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 08:34:48,404 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 08:38:49,168 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 08:42:49,645 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 08:46:50,033 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 08:50:50,426 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 08:54:50,891 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 08:58:51,329 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 09:02:52,572 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 09:06:52,991 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 09:10:53,428 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 09:14:53,821 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 09:18:54,215 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 09:22:54,955 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 09:26:55,723 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 09:30:56,426 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 09:34:57,155 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 09:38:57,874 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 09:42:58,623 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 09:46:59,147 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 09:50:59,889 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 09:55:00,275 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 09:59:00,976 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 10:03:01,415 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 10:07:01,896 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 10:11:02,424 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 10:15:05,144 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-08 10:19:05,563 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 00:46:26,051 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 00:50:26,605 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 00:54:27,069 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 00:58:27,439 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 01:02:27,932 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 01:06:28,242 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 01:10:28,658 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 01:14:28,993 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 01:18:29,391 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 01:22:29,823 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 01:26:30,196 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 01:30:30,492 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 01:34:30,945 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 01:38:31,399 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[ERROR] 2018-07-09 01:42:38,578 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Form Dict: {
+ "cmd": "frappe.desk.moduleview.get", 
+ "module": "Learn"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 57, in application
+    response = frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 22, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 53, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 923, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/desk/moduleview.py", line 14, in get
+    data = get_data(module)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/desk/moduleview.py", line 30, in get_data
+    data = build_config_from_file(module)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/desk/moduleview.py", line 54, in build_config_from_file
+    data += get_config(app, module)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/desk/moduleview.py", line 183, in get_config
+    config = frappe.get_module("{app}.config.{module}".format(app=app, module=module))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 688, in get_module
+    return importlib.import_module(modulename)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/frappe/frappe-bench/apps/erpnext/erpnext/config/learn.py", line 13
+    "youtube_id": ""
+               ^
+SyntaxError: invalid syntax
+[ERROR] 2018-07-09 01:42:38,735 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+New Exception collected with id: 2018-07-09 01:42:38.616978-10.0.2.2-b20
+[DEBUG] 2018-07-09 01:45:08,783 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 01:49:09,299 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 01:53:09,701 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 01:57:10,246 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 02:01:10,765 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 02:05:11,243 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 02:09:11,718 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 02:13:12,186 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 02:17:12,722 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 02:21:13,256 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 02:25:13,702 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 02:29:14,366 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 02:33:14,923 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 02:37:15,381 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[ERROR] 2018-07-09 02:38:27,828 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Form Dict: {
+ "cmd": "frappe.utils.help.get_help_content", 
+ "path": "/documentation/index"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 57, in application
+    response = frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 22, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 53, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 923, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 34, in get_help_content
+    return HelpDatabase().get_content(path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 99, in get_content
+    result = self.db.sql(query.format(path=path))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 165, in sql
+    self._cursor.execute(query)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 250, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+    raise errorvalue
+ProgrammingError: (1146, "Table 'd56cb677eaab3383.help' doesn't exist")
+[ERROR] 2018-07-09 02:38:27,833 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: 'connection'
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in get_snapshot
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+  File "/usr/lib/python2.7/inspect.py", line 888, in formatargvalues
+    specs.append(strseq(args[i], convert, join))
+  File "/usr/lib/python2.7/inspect.py", line 843, in strseq
+    return convert(object)
+  File "/usr/lib/python2.7/inspect.py", line 885, in convert
+    return formatarg(name) + formatvalue(locals[name])
+KeyError: 'connection'
+[ERROR] 2018-07-09 02:38:27,862 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Form Dict: {
+ "cmd": "frappe.utils.help.get_help_content", 
+ "path": "/documentation/index"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 57, in application
+    response = frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 22, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 53, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 923, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 34, in get_help_content
+    return HelpDatabase().get_content(path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 99, in get_content
+    result = self.db.sql(query.format(path=path))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 165, in sql
+    self._cursor.execute(query)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 250, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+    raise errorvalue
+ProgrammingError: (1146, "Table 'd56cb677eaab3383.help' doesn't exist")
+[ERROR] 2018-07-09 02:38:27,865 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: 'connection'
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in get_snapshot
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+  File "/usr/lib/python2.7/inspect.py", line 888, in formatargvalues
+    specs.append(strseq(args[i], convert, join))
+  File "/usr/lib/python2.7/inspect.py", line 843, in strseq
+    return convert(object)
+  File "/usr/lib/python2.7/inspect.py", line 885, in convert
+    return formatarg(name) + formatvalue(locals[name])
+KeyError: 'connection'
+[ERROR] 2018-07-09 02:38:27,874 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Form Dict: {
+ "cmd": "frappe.utils.help.get_help_content", 
+ "path": "/documentation/index"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 57, in application
+    response = frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 22, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 53, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 923, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 34, in get_help_content
+    return HelpDatabase().get_content(path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 99, in get_content
+    result = self.db.sql(query.format(path=path))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 165, in sql
+    self._cursor.execute(query)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 250, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+    raise errorvalue
+ProgrammingError: (1146, "Table 'd56cb677eaab3383.help' doesn't exist")
+[ERROR] 2018-07-09 02:38:27,878 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: 'connection'
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in get_snapshot
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+  File "/usr/lib/python2.7/inspect.py", line 888, in formatargvalues
+    specs.append(strseq(args[i], convert, join))
+  File "/usr/lib/python2.7/inspect.py", line 843, in strseq
+    return convert(object)
+  File "/usr/lib/python2.7/inspect.py", line 885, in convert
+    return formatarg(name) + formatvalue(locals[name])
+KeyError: 'connection'
+[ERROR] 2018-07-09 02:38:27,887 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Form Dict: {
+ "cmd": "frappe.utils.help.get_help_content", 
+ "path": "/documentation/index"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 57, in application
+    response = frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 22, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 53, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 923, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 34, in get_help_content
+    return HelpDatabase().get_content(path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 99, in get_content
+    result = self.db.sql(query.format(path=path))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 165, in sql
+    self._cursor.execute(query)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 250, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+    raise errorvalue
+ProgrammingError: (1146, "Table 'd56cb677eaab3383.help' doesn't exist")
+[ERROR] 2018-07-09 02:38:27,890 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: 'connection'
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in get_snapshot
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+  File "/usr/lib/python2.7/inspect.py", line 888, in formatargvalues
+    specs.append(strseq(args[i], convert, join))
+  File "/usr/lib/python2.7/inspect.py", line 843, in strseq
+    return convert(object)
+  File "/usr/lib/python2.7/inspect.py", line 885, in convert
+    return formatarg(name) + formatvalue(locals[name])
+KeyError: 'connection'
+[ERROR] 2018-07-09 02:38:27,900 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Form Dict: {
+ "cmd": "frappe.utils.help.get_help_content", 
+ "path": "/documentation/index"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 57, in application
+    response = frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 22, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 53, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 923, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 34, in get_help_content
+    return HelpDatabase().get_content(path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 99, in get_content
+    result = self.db.sql(query.format(path=path))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 165, in sql
+    self._cursor.execute(query)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 250, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+    raise errorvalue
+ProgrammingError: (1146, "Table 'd56cb677eaab3383.help' doesn't exist")
+[ERROR] 2018-07-09 02:38:27,902 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: 'connection'
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in get_snapshot
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+  File "/usr/lib/python2.7/inspect.py", line 888, in formatargvalues
+    specs.append(strseq(args[i], convert, join))
+  File "/usr/lib/python2.7/inspect.py", line 843, in strseq
+    return convert(object)
+  File "/usr/lib/python2.7/inspect.py", line 885, in convert
+    return formatarg(name) + formatvalue(locals[name])
+KeyError: 'connection'
+[ERROR] 2018-07-09 02:38:27,912 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Form Dict: {
+ "cmd": "frappe.utils.help.get_help_content", 
+ "path": "/documentation/index"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 57, in application
+    response = frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 22, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 53, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 923, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 34, in get_help_content
+    return HelpDatabase().get_content(path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 99, in get_content
+    result = self.db.sql(query.format(path=path))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 165, in sql
+    self._cursor.execute(query)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 250, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+    raise errorvalue
+ProgrammingError: (1146, "Table 'd56cb677eaab3383.help' doesn't exist")
+[ERROR] 2018-07-09 02:38:27,914 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: 'connection'
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in get_snapshot
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+  File "/usr/lib/python2.7/inspect.py", line 888, in formatargvalues
+    specs.append(strseq(args[i], convert, join))
+  File "/usr/lib/python2.7/inspect.py", line 843, in strseq
+    return convert(object)
+  File "/usr/lib/python2.7/inspect.py", line 885, in convert
+    return formatarg(name) + formatvalue(locals[name])
+KeyError: 'connection'
+[ERROR] 2018-07-09 02:38:27,926 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Form Dict: {
+ "cmd": "frappe.utils.help.get_help_content", 
+ "path": "/documentation/index"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 57, in application
+    response = frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 22, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 53, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 923, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 34, in get_help_content
+    return HelpDatabase().get_content(path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 99, in get_content
+    result = self.db.sql(query.format(path=path))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 165, in sql
+    self._cursor.execute(query)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 250, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+    raise errorvalue
+ProgrammingError: (1146, "Table 'd56cb677eaab3383.help' doesn't exist")
+[ERROR] 2018-07-09 02:38:27,931 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: 'connection'
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in get_snapshot
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+  File "/usr/lib/python2.7/inspect.py", line 888, in formatargvalues
+    specs.append(strseq(args[i], convert, join))
+  File "/usr/lib/python2.7/inspect.py", line 843, in strseq
+    return convert(object)
+  File "/usr/lib/python2.7/inspect.py", line 885, in convert
+    return formatarg(name) + formatvalue(locals[name])
+KeyError: 'connection'
+[ERROR] 2018-07-09 02:38:27,944 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Form Dict: {
+ "cmd": "frappe.utils.help.get_help_content", 
+ "path": "/documentation/index"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 57, in application
+    response = frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 22, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 53, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 923, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 34, in get_help_content
+    return HelpDatabase().get_content(path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 99, in get_content
+    result = self.db.sql(query.format(path=path))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 165, in sql
+    self._cursor.execute(query)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 250, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+    raise errorvalue
+ProgrammingError: (1146, "Table 'd56cb677eaab3383.help' doesn't exist")
+[ERROR] 2018-07-09 02:38:27,947 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: 'connection'
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in get_snapshot
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+  File "/usr/lib/python2.7/inspect.py", line 888, in formatargvalues
+    specs.append(strseq(args[i], convert, join))
+  File "/usr/lib/python2.7/inspect.py", line 843, in strseq
+    return convert(object)
+  File "/usr/lib/python2.7/inspect.py", line 885, in convert
+    return formatarg(name) + formatvalue(locals[name])
+KeyError: 'connection'
+[ERROR] 2018-07-09 02:38:27,960 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Form Dict: {
+ "cmd": "frappe.utils.help.get_help_content", 
+ "path": "/documentation/index"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 57, in application
+    response = frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 22, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 53, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 923, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 34, in get_help_content
+    return HelpDatabase().get_content(path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 99, in get_content
+    result = self.db.sql(query.format(path=path))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 165, in sql
+    self._cursor.execute(query)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 250, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+    raise errorvalue
+ProgrammingError: (1146, "Table 'd56cb677eaab3383.help' doesn't exist")
+[ERROR] 2018-07-09 02:38:27,963 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: 'connection'
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in get_snapshot
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+  File "/usr/lib/python2.7/inspect.py", line 888, in formatargvalues
+    specs.append(strseq(args[i], convert, join))
+  File "/usr/lib/python2.7/inspect.py", line 843, in strseq
+    return convert(object)
+  File "/usr/lib/python2.7/inspect.py", line 885, in convert
+    return formatarg(name) + formatvalue(locals[name])
+KeyError: 'connection'
+[ERROR] 2018-07-09 02:38:27,975 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Form Dict: {
+ "cmd": "frappe.utils.help.get_help_content", 
+ "path": "/documentation/index"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 57, in application
+    response = frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 22, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 53, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 923, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 34, in get_help_content
+    return HelpDatabase().get_content(path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 99, in get_content
+    result = self.db.sql(query.format(path=path))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 165, in sql
+    self._cursor.execute(query)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 250, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+    raise errorvalue
+ProgrammingError: (1146, "Table 'd56cb677eaab3383.help' doesn't exist")
+[ERROR] 2018-07-09 02:38:27,979 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: 'connection'
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in get_snapshot
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+  File "/usr/lib/python2.7/inspect.py", line 888, in formatargvalues
+    specs.append(strseq(args[i], convert, join))
+  File "/usr/lib/python2.7/inspect.py", line 843, in strseq
+    return convert(object)
+  File "/usr/lib/python2.7/inspect.py", line 885, in convert
+    return formatarg(name) + formatvalue(locals[name])
+KeyError: 'connection'
+[ERROR] 2018-07-09 02:38:27,987 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Form Dict: {
+ "cmd": "frappe.utils.help.get_help_content", 
+ "path": "/documentation/index"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 57, in application
+    response = frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 22, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 53, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 923, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 34, in get_help_content
+    return HelpDatabase().get_content(path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 99, in get_content
+    result = self.db.sql(query.format(path=path))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 165, in sql
+    self._cursor.execute(query)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 250, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+    raise errorvalue
+ProgrammingError: (1146, "Table 'd56cb677eaab3383.help' doesn't exist")
+[ERROR] 2018-07-09 02:38:27,990 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: 'connection'
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in get_snapshot
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+  File "/usr/lib/python2.7/inspect.py", line 888, in formatargvalues
+    specs.append(strseq(args[i], convert, join))
+  File "/usr/lib/python2.7/inspect.py", line 843, in strseq
+    return convert(object)
+  File "/usr/lib/python2.7/inspect.py", line 885, in convert
+    return formatarg(name) + formatvalue(locals[name])
+KeyError: 'connection'
+[DEBUG] 2018-07-09 02:41:15,810 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 02:45:16,324 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 02:49:16,852 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 02:53:17,311 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 02:57:17,902 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 03:01:18,453 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 03:05:18,945 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 03:09:19,417 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[ERROR] 2018-07-09 03:11:56,297 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Form Dict: {
+ "cmd": "frappe.desk.moduleview.get", 
+ "module": "Learn"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 57, in application
+    response = frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 22, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 53, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 923, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/desk/moduleview.py", line 14, in get
+    data = get_data(module)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/desk/moduleview.py", line 30, in get_data
+    data = build_config_from_file(module)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/desk/moduleview.py", line 54, in build_config_from_file
+    data += get_config(app, module)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/desk/moduleview.py", line 183, in get_config
+    config = frappe.get_module("{app}.config.{module}".format(app=app, module=module))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 688, in get_module
+    return importlib.import_module(modulename)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/frappe/frappe-bench/apps/erpnext/erpnext/config/learn.py", line 13
+    "youtube_id": ""
+               ^
+SyntaxError: invalid syntax
+[ERROR] 2018-07-09 03:11:56,301 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+New Exception collected with id: 2018-07-09 03:11:56.297857-10.0.2.2-4aa
+[DEBUG] 2018-07-09 03:13:19,944 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 03:17:20,465 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 03:21:20,985 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 03:25:21,459 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 03:29:21,953 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 03:33:22,645 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 03:37:23,137 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 03:41:23,580 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 03:45:24,120 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 03:49:24,890 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 03:53:25,336 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 03:57:25,852 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 04:01:26,351 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 04:05:26,876 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 04:09:27,407 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 04:13:27,919 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 04:17:28,446 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 04:21:28,993 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 04:25:29,569 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 04:29:30,021 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 04:33:30,700 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 04:37:31,234 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 04:41:31,712 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 04:45:32,289 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 04:49:32,828 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 04:53:33,342 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 04:57:33,795 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 05:01:34,196 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 05:05:34,714 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 05:09:35,204 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 05:13:35,639 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 05:17:36,181 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 05:21:36,673 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 05:25:37,174 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 05:29:37,687 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 05:33:38,251 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 05:37:38,696 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 05:41:39,157 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 05:45:39,744 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 05:49:40,176 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 05:53:40,612 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 05:57:41,071 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 06:01:41,445 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 06:05:41,847 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 06:09:42,376 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 06:13:42,791 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 06:17:43,323 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 06:21:43,774 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 06:25:44,437 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 06:29:44,901 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 06:33:45,383 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 06:37:45,928 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 06:41:46,403 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 06:45:46,835 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 06:49:47,259 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 06:53:47,696 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 06:57:48,205 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 07:01:48,683 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 07:05:49,282 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 07:09:49,764 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 07:13:50,191 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 07:17:50,685 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 07:21:51,250 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 07:25:51,682 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 07:29:52,077 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 07:33:52,526 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 07:37:53,021 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 07:41:53,455 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 07:45:53,944 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 07:49:54,614 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 07:53:55,021 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 07:57:56,001 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 08:01:56,424 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 08:05:56,970 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 08:09:57,822 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 08:13:59,041 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 08:17:59,555 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 08:22:00,053 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 08:26:00,781 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 08:30:01,222 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 08:34:01,785 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 08:38:02,262 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 08:42:02,812 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 08:46:03,211 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 08:50:03,642 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 08:54:04,107 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 08:58:04,656 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 09:02:05,216 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 09:06:05,684 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 09:10:06,203 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 09:14:06,743 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 09:18:07,292 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 09:22:07,832 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 09:26:08,378 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 09:30:08,897 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 09:34:09,351 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 09:38:09,903 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 09:42:10,452 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 09:46:10,928 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[DEBUG] 2018-07-09 09:50:11,405 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: erpnext.vm
+Queued events for site erpnext.vm
+[ERROR] 2018-07-09 09:52:12,393 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Form Dict: {
+ "cmd": "frappe.utils.help.get_help_content", 
+ "path": "/documentation/index"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 57, in application
+    response = frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 22, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 53, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 923, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 34, in get_help_content
+    return HelpDatabase().get_content(path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 99, in get_content
+    result = self.db.sql(query.format(path=path))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 165, in sql
+    self._cursor.execute(query)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 250, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+    raise errorvalue
+ProgrammingError: (1146, "Table 'd56cb677eaab3383.help' doesn't exist")
+[ERROR] 2018-07-09 09:52:12,398 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: 'connection'
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in get_snapshot
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+  File "/usr/lib/python2.7/inspect.py", line 888, in formatargvalues
+    specs.append(strseq(args[i], convert, join))
+  File "/usr/lib/python2.7/inspect.py", line 843, in strseq
+    return convert(object)
+  File "/usr/lib/python2.7/inspect.py", line 885, in convert
+    return formatarg(name) + formatvalue(locals[name])
+KeyError: 'connection'
+[ERROR] 2018-07-09 09:52:12,410 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Form Dict: {
+ "cmd": "frappe.utils.help.get_help_content", 
+ "path": "/documentation/index"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 57, in application
+    response = frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 22, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 53, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 923, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 34, in get_help_content
+    return HelpDatabase().get_content(path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 99, in get_content
+    result = self.db.sql(query.format(path=path))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 165, in sql
+    self._cursor.execute(query)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 250, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+    raise errorvalue
+ProgrammingError: (1146, "Table 'd56cb677eaab3383.help' doesn't exist")
+[ERROR] 2018-07-09 09:52:12,416 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: 'connection'
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in get_snapshot
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+  File "/usr/lib/python2.7/inspect.py", line 888, in formatargvalues
+    specs.append(strseq(args[i], convert, join))
+  File "/usr/lib/python2.7/inspect.py", line 843, in strseq
+    return convert(object)
+  File "/usr/lib/python2.7/inspect.py", line 885, in convert
+    return formatarg(name) + formatvalue(locals[name])
+KeyError: 'connection'
+[ERROR] 2018-07-09 09:52:12,428 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Form Dict: {
+ "cmd": "frappe.utils.help.get_help_content", 
+ "path": "/documentation/index"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 57, in application
+    response = frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 22, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 53, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 923, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 34, in get_help_content
+    return HelpDatabase().get_content(path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 99, in get_content
+    result = self.db.sql(query.format(path=path))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 165, in sql
+    self._cursor.execute(query)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 250, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+    raise errorvalue
+ProgrammingError: (1146, "Table 'd56cb677eaab3383.help' doesn't exist")
+[ERROR] 2018-07-09 09:52:12,432 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: 'connection'
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in get_snapshot
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+  File "/usr/lib/python2.7/inspect.py", line 888, in formatargvalues
+    specs.append(strseq(args[i], convert, join))
+  File "/usr/lib/python2.7/inspect.py", line 843, in strseq
+    return convert(object)
+  File "/usr/lib/python2.7/inspect.py", line 885, in convert
+    return formatarg(name) + formatvalue(locals[name])
+KeyError: 'connection'
+[ERROR] 2018-07-09 09:52:12,444 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Form Dict: {
+ "cmd": "frappe.utils.help.get_help_content", 
+ "path": "/documentation/index"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 57, in application
+    response = frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 22, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 53, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 923, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 34, in get_help_content
+    return HelpDatabase().get_content(path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 99, in get_content
+    result = self.db.sql(query.format(path=path))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 165, in sql
+    self._cursor.execute(query)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 250, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+    raise errorvalue
+ProgrammingError: (1146, "Table 'd56cb677eaab3383.help' doesn't exist")
+[ERROR] 2018-07-09 09:52:12,448 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: 'connection'
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in get_snapshot
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+  File "/usr/lib/python2.7/inspect.py", line 888, in formatargvalues
+    specs.append(strseq(args[i], convert, join))
+  File "/usr/lib/python2.7/inspect.py", line 843, in strseq
+    return convert(object)
+  File "/usr/lib/python2.7/inspect.py", line 885, in convert
+    return formatarg(name) + formatvalue(locals[name])
+KeyError: 'connection'
+[ERROR] 2018-07-09 09:52:12,457 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Form Dict: {
+ "cmd": "frappe.utils.help.get_help_content", 
+ "path": "/documentation/index"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 57, in application
+    response = frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 22, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 53, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 923, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 34, in get_help_content
+    return HelpDatabase().get_content(path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 99, in get_content
+    result = self.db.sql(query.format(path=path))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 165, in sql
+    self._cursor.execute(query)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 250, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+    raise errorvalue
+ProgrammingError: (1146, "Table 'd56cb677eaab3383.help' doesn't exist")
+[ERROR] 2018-07-09 09:52:12,460 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: 'connection'
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in get_snapshot
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+  File "/usr/lib/python2.7/inspect.py", line 888, in formatargvalues
+    specs.append(strseq(args[i], convert, join))
+  File "/usr/lib/python2.7/inspect.py", line 843, in strseq
+    return convert(object)
+  File "/usr/lib/python2.7/inspect.py", line 885, in convert
+    return formatarg(name) + formatvalue(locals[name])
+KeyError: 'connection'
+[ERROR] 2018-07-09 09:52:12,468 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Form Dict: {
+ "cmd": "frappe.utils.help.get_help_content", 
+ "path": "/documentation/index"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 57, in application
+    response = frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 22, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 53, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 923, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 34, in get_help_content
+    return HelpDatabase().get_content(path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 99, in get_content
+    result = self.db.sql(query.format(path=path))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 165, in sql
+    self._cursor.execute(query)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 250, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+    raise errorvalue
+ProgrammingError: (1146, "Table 'd56cb677eaab3383.help' doesn't exist")
+[ERROR] 2018-07-09 09:52:12,471 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: 'connection'
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in get_snapshot
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+  File "/usr/lib/python2.7/inspect.py", line 888, in formatargvalues
+    specs.append(strseq(args[i], convert, join))
+  File "/usr/lib/python2.7/inspect.py", line 843, in strseq
+    return convert(object)
+  File "/usr/lib/python2.7/inspect.py", line 885, in convert
+    return formatarg(name) + formatvalue(locals[name])
+KeyError: 'connection'
+[ERROR] 2018-07-09 09:52:12,479 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Form Dict: {
+ "cmd": "frappe.utils.help.get_help_content", 
+ "path": "/documentation/index"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 57, in application
+    response = frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 22, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 53, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 923, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 34, in get_help_content
+    return HelpDatabase().get_content(path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 99, in get_content
+    result = self.db.sql(query.format(path=path))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 165, in sql
+    self._cursor.execute(query)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 250, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+    raise errorvalue
+ProgrammingError: (1146, "Table 'd56cb677eaab3383.help' doesn't exist")
+[ERROR] 2018-07-09 09:52:12,481 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: 'connection'
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in get_snapshot
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+  File "/usr/lib/python2.7/inspect.py", line 888, in formatargvalues
+    specs.append(strseq(args[i], convert, join))
+  File "/usr/lib/python2.7/inspect.py", line 843, in strseq
+    return convert(object)
+  File "/usr/lib/python2.7/inspect.py", line 885, in convert
+    return formatarg(name) + formatvalue(locals[name])
+KeyError: 'connection'
+[ERROR] 2018-07-09 09:52:12,490 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Form Dict: {
+ "cmd": "frappe.utils.help.get_help_content", 
+ "path": "/documentation/index"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 57, in application
+    response = frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 22, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 53, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 923, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 34, in get_help_content
+    return HelpDatabase().get_content(path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 99, in get_content
+    result = self.db.sql(query.format(path=path))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 165, in sql
+    self._cursor.execute(query)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 250, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+    raise errorvalue
+ProgrammingError: (1146, "Table 'd56cb677eaab3383.help' doesn't exist")
+[ERROR] 2018-07-09 09:52:12,494 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: 'connection'
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in get_snapshot
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+  File "/usr/lib/python2.7/inspect.py", line 888, in formatargvalues
+    specs.append(strseq(args[i], convert, join))
+  File "/usr/lib/python2.7/inspect.py", line 843, in strseq
+    return convert(object)
+  File "/usr/lib/python2.7/inspect.py", line 885, in convert
+    return formatarg(name) + formatvalue(locals[name])
+KeyError: 'connection'
+[ERROR] 2018-07-09 09:52:12,501 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Form Dict: {
+ "cmd": "frappe.utils.help.get_help_content", 
+ "path": "/documentation/index"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 57, in application
+    response = frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 22, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 53, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 923, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 34, in get_help_content
+    return HelpDatabase().get_content(path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 99, in get_content
+    result = self.db.sql(query.format(path=path))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 165, in sql
+    self._cursor.execute(query)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 250, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+    raise errorvalue
+ProgrammingError: (1146, "Table 'd56cb677eaab3383.help' doesn't exist")
+[ERROR] 2018-07-09 09:52:12,505 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: 'connection'
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in get_snapshot
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+  File "/usr/lib/python2.7/inspect.py", line 888, in formatargvalues
+    specs.append(strseq(args[i], convert, join))
+  File "/usr/lib/python2.7/inspect.py", line 843, in strseq
+    return convert(object)
+  File "/usr/lib/python2.7/inspect.py", line 885, in convert
+    return formatarg(name) + formatvalue(locals[name])
+KeyError: 'connection'
+[ERROR] 2018-07-09 09:52:12,513 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: erpnext.vm
+Form Dict: {
+ "cmd": "frappe.utils.help.get_help_content", 
+ "path": "/documentation/index"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 57, in application
+    response = frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 22, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 53, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 923, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 34, in get_help_content
+    return HelpDatabase().get_content(path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/help.py", line 99, in get_content
+    result = self.db.sql(query.format(path=path))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 165, in sql
+    self._cursor.execute(query)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/cursors.py", line 250, in execute
+    self.errorhandler(self, exc, value)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+    raise errorvalue
+ProgrammingError: (1146, "Table 'd56cb677eaab3383.help' doesn't exist")
+[ERROR] 2018-07-09 09:52:12,516 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: 'connection'
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in get_snapshot
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+  File "/usr/lib/python2.7/inspect.py", line 888, in formatargvalues
+    specs.append(strseq(args[i], convert, join))
+  File "/usr/lib/python2.7/inspect.py", line 843, in strseq
+    return convert(object)
+  File "/usr/lib/python2.7/inspect.py", line 885, in convert
+    return formatarg(name) + formatvalue(locals[name])
+KeyError: 'connection'

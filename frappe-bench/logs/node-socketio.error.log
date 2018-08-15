@@ -1,0 +1,2168 @@
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+undefined:17
+ "developer_mode": 1
+ ^
+
+SyntaxError: Unexpected string
+    at Object.parse (native)
+    at read_config (/home/frappe/frappe-bench/apps/frappe/socketio.js:344:28)
+    at get_conf (/home/frappe/frappe-bench/apps/frappe/socketio.js:355:2)
+    at Object.<anonymous> (/home/frappe/frappe-bench/apps/frappe/socketio.js:10:12)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at startup (node.js:148:18)
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        events.js:154
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to localhost:12000 failed - connect ECONNREFUSED 127.0.0.1:12000
+    at Object.exports._errnoException (util.js:893:11)
+    at exports._exceptionWithHostPort (util.js:916:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1075:14)

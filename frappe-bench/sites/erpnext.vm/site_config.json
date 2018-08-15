@@ -1,0 +1,12 @@
+{
+ "db_name": "d56cb677eaab3383", 
+ "db_password": "jrMaktxxKJSweEY3", 
+ "limits": {
+  "space_usage": {
+   "backup_size": 2.0, 
+   "database_size": 13.79, 
+   "files_size": 2.0, 
+   "total": 17.79
+  }
+ }
+}
